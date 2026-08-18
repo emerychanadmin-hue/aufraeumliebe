@@ -1,17 +1,4 @@
-// Loads assets/posts.json and renders the homepage post grid + category filter.
-// To add a new post: add one entry to assets/posts.json. No HTML editing needed here.
-//
-// Entry shape:
-// {
-//   "slug": "kueche-schubladen-chaos",         -> file at posts/kueche-schubladen-chaos.html
-//   "title": "...",
-//   "hook": "...",                              -> 1-line teaser shown on the card
-//   "category": "zimmer-guides",                  -> one of: zimmer-guides, ausmisten-minimalismus, putzroutinen, ratgeber
-//   "categoryLabel": "Zimmer-Guides",
-//   "image": "assets/img/kueche-schubladen.jpg",
-//   "date": "2026-08-14"
-// }
-
+// Renders the homepage post grid and category filter from assets/posts.json.
 (async function () {
   const grid = document.getElementById('postGrid');
   const categoryNav = document.getElementById('categories');
