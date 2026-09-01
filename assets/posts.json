@@ -1,5 +1,95 @@
 [
   {
+    "slug": "ausmisten-methoden-meine-erfahrung",
+    "title": "Ich habe wirklich jede Ausmisten-Methode ausprobiert, bei einer musste ich nie wieder sagen",
+    "hook": "Über die letzten Jahre wurde tatsächlich jede der zehn bekannten Ausmisten-Methoden mindestens einmal zuhause getestet. Manche haben sofort…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/ausmisten-methoden-lisas-erfahrung.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "minimalismus-gewohnheiten-meine-erfahrung",
+    "title": "Eine Gewohnheit saß sofort, eine andere hat über ein Jahr gebraucht",
+    "hook": "Die Fünf-Minuten-Abendrunde hat fast sofort funktioniert, dafür war sie einfach zu kurz für Ausreden. Eine Kommode im Flur dagegen lief…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/minimalismus-gewohnheiten-lisas-weg.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "5-kisten-methode-meine-panne",
+    "title": "Meine Bücher landeten bei der 5-Kisten-Methode immer in der falschen Kiste",
+    "hook": "Bei fast jeder Kategorie hat die 5-Kisten-Methode auf Anhieb funktioniert, außer bei Büchern. Die landeten wieder und wieder in der…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/5-kisten-methode-buecher-panne.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "abstellkammer-teure-lektion",
+    "title": "Meine Abstellkammer war jahrelang der Ort, an dem Dinge einfach verschwanden",
+    "hook": "Die Werkzeugkiste eines ehemaligen Mitbewohners, drei kaputte Staubsauger, die irgendwann repariert werden sollten, all das verschwand…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/abstellkammer-einrichten-teure-lektion.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "badezimmer-spiegelschrank-meine-erfahrung",
+    "title": "Mein Spiegelschrank quoll jahrelang über, bis ein System half, kein Organizer",
+    "hook": "Lange Jahre sah es so aus: Der Spiegelschrank quoll über, halbleere Sonnencremes lagen im Unterschrank, und zwischen alten Wattepads fand…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/badezimmer-organisieren-lisas-bad.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "handtuecher-falten-erster-versuch",
+    "title": "Mein erster Versuch, Handtücher wie im Hotel zu falten, ging gründlich daneben",
+    "hook": "Das Ergebnis sah eher aus wie ein missglückter Wäscheunfall als wie im Hotel. Das Problem war nicht die Falttechnik selbst, sondern etwas…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/handtuecher-falten-erster-versuch.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "hauswirtschaftsraum-organisieren-4qm",
+    "title": "Unser Hauswirtschaftsraum hat nur 4 Quadratmeter, kein Fenster, und trotzdem funktioniert er",
+    "hook": "Vier Quadratmeter, fensterlos, mit einer Tür, die locker ein Drittel der nutzbaren Fläche blockiert. Klingt nach Albtraum, war aber lösbar.…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/hauswirtschaftsraum-organisieren-4qm.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "homeoffice-organisieren-jahre-tests",
+    "title": "Ich habe fast jedes Ablagesystem fürs Homeoffice ausprobiert, das meiste war nach 2 Wochen wieder Chaos",
+    "hook": "Über mehrere Jahre im Homeoffice wurde so ziemlich jedes Ablagesystem getestet, das man sich vorstellen kann. Ein Versuch mit Farbcodes und…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/homeoffice-organisieren-jahre-tests.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kapselgarderobe-erstellen-gescheitert",
+    "title": "Meine erste Kapselgarderobe ist krachend gescheitert, aber nicht so, wie du denkst",
+    "hook": "Die eigene Kapselgarderobe wurde vor drei Jahren zum ersten Mal ausprobiert, und das Ergebnis war ziemlich krachend gescheitert. Nicht bei…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kapselgarderobe-erstellen-gescheitert.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kinderzimmer-organisieren-teure-lehrstunde",
+    "title": "Unser teuerstes Regalsystem fürs Kinderzimmer war nach 2 Wochen einfach Geschichte",
+    "hook": "Ein überambitioniertes Regalsystem mit lauter kleinen, hübsch beschrifteten Schubladen hat sich als teure Lehrstunde erwiesen. Perlen,…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kinderzimmer-organisieren-teure-lehrstunde.png",
+    "date": "2026-09-01"
+  },
+  {
     "slug": "mein-winziger-schrank",
     "title": "Wie ich Jahre in einem winzigen Einbauschrank überlebt habe",
     "hook": "Eine Kleiderstange, ein Einlegeboden, jahrelang. So sieht das System aus, das am Ende geblieben ist.",
