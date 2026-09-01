@@ -1,5 +1,95 @@
 [
   {
+    "slug": "kleiderschrank-ausmisten-lisas-erfahrung",
+    "title": "Es waren nie die hässlichen Teile, die meinen Schrank verstopft haben",
+    "hook": "Es sind selten die hässlichen Teile, die den Schrank verstopfen. Es sind die Teile, bei denen ja, eigentlich mag ich das und ich trage es…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/kleiderschrank-ausmisten-lisas-erfahrung.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleiderschrank-organisieren-lisas-guide",
+    "title": "Ich habe schon unzählige Kleiderschränke organisiert, meinen eigenen eingeschlossen",
+    "hook": "Meinen eigenen Kleiderschrank, die meiner Freundinnen, ich habe über die Jahre so einige organisiert. Die häufigste Frage lautet immer…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleiderschrank-organisieren-lisas-guide.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "falten-vertikal-lisas-fehler",
+    "title": "2 Monate lang mussten meine T-Shirts immer wieder umgefaltet werden",
+    "hook": "Seit gut drei Jahren wird hier vertikal gefaltet, und ehrlich gesagt hat es keine Woche gedauert, bis es saß, eher zwei Monate, in denen…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/falten-vertikal-lisas-fehler.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleine-kueche-lisas-mietkueche",
+    "title": "2 Jahre lang habe ich meine Küche nur umsortiert, nicht ausgemistet",
+    "hook": "Ein Eckregal hier, ein Hängesystem dort, und am Ende war die Küche trotzdem voll, nur ordentlicher verpackt. So lief es zwei Jahre lang in…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleine-kueche-lisas-mietkueche.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleines-bad-lisas-38qm",
+    "title": "Mein erstes Bad hatte 3,8 Quadratmeter, kein Fenster, keinen Schrank",
+    "hook": "Kein Fenster, kein Schrank, dafür eine Tür, die nach innen aufging und quasi die halbe Fläche blockierte. Die meisten Ratgeber gingen von…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleines-bad-lisas-38qm.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "konmari-methode-lisas-erfahrung",
+    "title": "Bei den Erinnerungsstücken wäre die KonMari-Methode bei mir fast gescheitert",
+    "hook": "Die Methode wurde einmal komplett durchgezogen, an einem verlängerten Wochenende plus zwei Abenden unter der Woche. Ehrlich gesagt: Bei den…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/konmari-methode-lisas-erfahrung.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kueche-organisieren-lisas-schneebesen",
+    "title": "Drei Schneebesen im Schrank, bis klar wurde, dass Ausmisten der erste Schritt ist",
+    "hook": "Ich hatte selbst mal drei Schneebesen im Schrank. Jahrelang wurde in überfüllten Schubladen gewühlt, bis klar wurde, dass Küche…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kueche-organisieren-lisas-schneebesen.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "toepfe-pfannen-lisas-mietwohnung",
+    "title": "Ein Küchenumbau war keine Option, also musste eine andere Lösung her",
+    "hook": "Ein Küchenumbau war finanziell und rechtlich einfach keine Option, also musste eine Lösung her, die mit dem auskommt, was der Schrank schon…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/toepfe-pfannen-lisas-mietwohnung.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kuehlschrank-lisas-verwirrung",
+    "title": "Mein neuer Kühlschrank hat mein ganzes Zonen-Wissen über Bord geworfen",
+    "hook": "Jahrelang wurde nach dem Zonen-Schema eingeräumt, bis vor zwei Jahren ein neuer Kühlschrank mit Umluftkühlung ins Haus kam. Kurz…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kuehlschrank-lisas-verwirrung.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "schminktisch-lisas-schublade",
+    "title": "Meine Make-up-Schublade sah lange aus wie ein Rückgabekorb",
+    "hook": "Drei angetrocknete Mascaras, eine Foundation ohne bekanntes Öffnungsdatum, Lidschatten-Paletten, die seit Jahren nicht angefasst wurden.…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schminktisch-lisas-schublade.png",
+    "date": "2026-09-01"
+  },
+  {
     "slug": "ausmisten-methoden-meine-erfahrung",
     "title": "Ich habe wirklich jede Ausmisten-Methode ausprobiert, bei einer musste ich nie wieder sagen",
     "hook": "Über die letzten Jahre wurde tatsächlich jede der zehn bekannten Ausmisten-Methoden mindestens einmal zuhause getestet. Manche haben sofort…",
