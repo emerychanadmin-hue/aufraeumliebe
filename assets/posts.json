@@ -1,5 +1,32 @@
 [
   {
+    "slug": "buecherregal-ordnen-lisas-erfahrung",
+    "title": "Bücherregal ordnen, einfach erklärt",
+    "hook": "Mein Bücherregal wurde dreimal komplett umsortiert, bis ich verstanden habe, was wirklich zählt",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/buecherregal-ordnen-lisas-erfahrung.webp",
+    "date": "2026-09-09"
+  },
+  {
+    "slug": "kabel-verstecken-fernseher-lisas-zaehlung",
+    "title": "Kabel verstecken am Fernseher, einfach erklärt",
+    "hook": "Hinter meinem Fernseher hingen 3 Ladegeräte ohne Gerät, bis ich genauer nachgezählt habe",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kabel-verstecken-fernseher-lisas-zaehlung.webp",
+    "date": "2026-09-09"
+  },
+  {
+    "slug": "winterkleidung-aufbewahren-lisas-jacke",
+    "title": "Winterkleidung aufbewahren, einfach erklärt",
+    "hook": "Meine Daunenjacke sah nach dem Winterschlaf aus, als hätte sie eine schlechte Nacht hinter sich",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/winterkleidung-aufbewahren-lisas-jacke.webp",
+    "date": "2026-09-09"
+  },
+  {
     "slug": "medikamentenschrank-lisas-materialschlacht",
     "title": "Medikamentenschrank ausmisten, einfach erklärt",
     "hook": "Drei angebrochene Hustensaft-Flaschen, von denen nicht mehr klar war, welche noch gut war. Ein Fieberthermometer ohne Batterie. Und ganz…",
